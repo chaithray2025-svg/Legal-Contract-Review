@@ -30,6 +30,7 @@ The paper tackles the lack of large, expert-annotated datasets for applying deep
 ***
 
 ## Key ideas relevant to our project  
+- Uses the same dataset as us for our project (The Atticus Dataset).
 - CUAD focuses on **highlighting salient contract clauses**, which is closely related to clause-level extraction that can precede or support summarisation.[1]
 - The dataset covers 41 label types (e.g., governing law, exclusivity, non-compete, cap on liability), providing fine-grained semantic structure that could inform structured or controllable contract summaries.[1]
 - Only about 10% of contract text is labeled overall and roughly 0.25% per label, emphasizing the extreme class imbalance typical in contract-focused tasks and suggesting careful handling of negative examples and thresholds.[1]
